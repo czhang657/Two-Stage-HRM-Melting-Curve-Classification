@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Model checkpoints
+*.pt
+*.pth
+checkpoints/
+bert_checkpoints/
+results_resnet18/
+results_vit/
+
+# Datasets
+prompt3_splits_prompts_seed*/
+species_prompts_original/
+
+# Logs and outputs
+*.log
+session.log
+bert_classification_logs/
+old_bert_classification_logs/
+
+# Visualizations and analysis
+attention_visualizations/
+
+# Other data files
+*.npz
+*.npy
+*.pkl
+label_encoder.json
