@@ -117,7 +117,7 @@ Data splits are generated with 10 random seeds for robust evaluation.
 If you find this work useful, please cite:
 
 ```bibtex
-@article{anonymous2025twostage,
+@article{anonymous2026twostage,
   title={A Two-Stage Fusion Framework for Few-Shot Species Identification from Melting Curve Data},
   author={Anonymous},
   year={2026}
