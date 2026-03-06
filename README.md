@@ -120,6 +120,6 @@ If you find this work useful, please cite:
 @article{anonymous2025twostage,
   title={A Two-Stage Fusion Framework for Few-Shot Species Identification from Melting Curve Data},
   author={Anonymous},
-  year={2025}
+  year={2026}
 }
 ```
