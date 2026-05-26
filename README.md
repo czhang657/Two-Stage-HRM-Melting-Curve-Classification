@@ -97,8 +97,9 @@ Data splits are generated with 10 random seeds for robust evaluation.
 If you find this work useful, please cite our ACM-BCB 2026 paper:
 
 ```bibtex
-@inproceedings{twostage2026hrm,
+@inproceedings{zhang2026twostage,
   title     = {A Two-Stage Fusion Framework for Few-Shot Species Identification from Melting Curve Data},
+  author    = {Zhang, Chengqian and Lee, Kyumin and Tong, Zhongyi},
   booktitle = {Proceedings of the 17th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)},
   year      = {2026}
 }
